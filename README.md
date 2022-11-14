@@ -3,7 +3,7 @@ Collection of various algorithms in mathematics, machine learning, computer scie
 
 ## A module
 
-These are loacated in Algorithm/lib/Algorithm/<TopicName>/<AlgorithmName>, and allow an object orientated utilisation of this module
+These are located in Algorithm\/lib\/Algorithm\/<TopicName\>/<AlgorithmName>, and allow an object orientated utilisation of this module. Where the module already exists, that module is copied with credit.
 
 ## A standalone script
 
